@@ -1,0 +1,2 @@
+- ten shots with scattering
+- the scatter zone increases when moving
